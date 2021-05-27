@@ -14,4 +14,5 @@ I wrote my MIPS Assembly codes on MARS Simulator and SystemVerilog codes on EDA 
 
 **Lab 6:** Purpose of this lab is studying the effect of various cache design parameters. The first part includes problem solving and writing a program. The second part involves execution of the program and preparing a report.
 
+*Other than code, I uploaded my other types of answers such as questions about class topics or lab itself, results and reports and descriptions of labs.*
 I hope that these answers help you in your classes. Please feel free to ask anything about my work. My email: ata.seren@hotmail.com
